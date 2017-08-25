@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<setting sizex="3.0" sizey="7.0">
+    <environment>
+        <grid id="grid1" rows="3" columns="3" posx="1.0" posy="0.5" border="false">
+            <field row="0" column="0" id="grid1.0-0" label=""/>
+            <field row="1" column="0" id="grid1.0-1" label=""/>
+            <field row="2" column="0" id="grid1.0-2" label=""/>
+            <field row="0" column="1" id="grid1.1-0" label=""/>
+            <field row="1" column="1" id="grid1.1-1" label=""/>
+            <field row="2" column="1" id="grid1.1-2" label=""/>
+            <field row="0" column="2" id="grid1.2-0" label=""/>
+            <field row="1" column="2" id="grid1.2-1" label=""/>
+            <field row="2" column="2" id="grid1.2-2" label=""/>
+        </grid>
+        <grid id="grid2" rows="3" columns="3" posx="12.5" posy="0.5" border="false">
+            <field row="0" column="0" id="grid2.0-0" label=""/>
+            <field row="1" column="0" id="grid2.0-1" label=""/>
+            <field row="2" column="0" id="grid2.0-2" label=""/>
+            <field row="0" column="1" id="grid2.1-0" label=""/>
+            <field row="1" column="1" id="grid2.1-1" label=""/>
+            <field row="2" column="1" id="grid2.1-2" label=""/>
+            <field row="0" column="2" id="grid2.2-0" label=""/>
+            <field row="1" column="2" id="grid2.2-1" label=""/>
+            <field row="2" column="2" id="grid2.2-2" label=""/>
+        </grid>
+        <grid id="grid3" rows="3" columns="3" posx="1.0" posy="5.5" border="false">
+            <field row="0" column="0" id="grid3.0-0" label=""/>
+            <field row="1" column="0" id="grid3.0-1" label=""/>
+            <field row="2" column="0" id="grid3.0-2" label=""/>
+            <field row="0" column="1" id="grid3.1-0" label=""/>
+            <field row="1" column="1" id="grid3.1-1" label=""/>
+            <field row="2" column="1" id="grid3.1-2" label=""/>
+            <field row="0" column="2" id="grid3.2-0" label=""/>
+            <field row="1" column="2" id="grid3.2-1" label=""/>
+            <field row="2" column="2" id="grid3.2-2" label=""/>
+        </grid>
+        <grid id="grid4" rows="3" columns="3" posx="12.5" posy="5.5" border="false">
+            <field row="0" column="0" id="grid4.0-0" label=""/>
+            <field row="1" column="0" id="grid4.0-1" label=""/>
+            <field row="2" column="0" id="grid4.0-2" label=""/>
+            <field row="0" column="1" id="grid4.1-0" label=""/>
+            <field row="1" column="1" id="grid4.1-1" label=""/>
+            <field row="2" column="1" id="grid4.1-2" label=""/>
+            <field row="0" column="2" id="grid4.2-0" label=""/>
+            <field row="1" column="2" id="grid4.2-1" label=""/>
+            <field row="2" column="2" id="grid4.2-2" label=""/>
+        </grid>
+        <grid id="grid" rows="5" columns="8" posx="4.0" posy="2.0" border="true">
+            <field row="0" column="0" id="grid.0-0" label=""/>
+            <field row="1" column="0" id="grid.0-1" label=""/>
+            <field row="2" column="0" id="grid.0-2" label=""/>
+            <field row="3" column="0" id="grid.0-3" label=""/>
+            <field row="4" column="0" id="grid.0-4" label=""/>
+            <field row="0" column="1" id="grid.1-0" label=""/>
+            <field row="1" column="1" id="grid.1-1" label=""/>
+            <field row="2" column="1" id="grid.1-2" label=""/>
+            <field row="3" column="1" id="grid.1-3" label=""/>
+            <field row="4" column="1" id="grid.1-4" label=""/>
+            <field row="0" column="2" id="grid.2-0" label=""/>
+            <field row="1" column="2" id="grid.2-1" label=""/>
+            <field row="2" column="2" id="grid.2-2" label=""/>
+            <field row="3" column="2" id="grid.2-3" label=""/>
+            <field row="4" column="2" id="grid.2-4" label=""/>
+            <field row="0" column="3" id="grid.3-0" label=""/>
+            <field row="1" column="3" id="grid.3-1" label=""/>
+            <field row="2" column="3" id="grid.3-2" label=""/>
+            <field row="3" column="3" id="grid.3-3" label=""/>
+            <field row="4" column="3" id="grid.3-4" label=""/>
+            <field row="0" column="4" id="grid.4-0" label=""/>
+            <field row="1" column="4" id="grid.4-1" label=""/>
+            <field row="2" column="4" id="grid.4-2" label=""/>
+            <field row="3" column="4" id="grid.4-3" label=""/>
+            <field row="4" column="4" id="grid.4-4" label=""/>
+            <field row="0" column="5" id="grid.5-0" label=""/>
+            <field row="1" column="5" id="grid.5-1" label=""/>
+            <field row="2" column="5" id="grid.5-2" label=""/>
+            <field row="3" column="5" id="grid.5-3" label=""/>
+            <field row="4" column="5" id="grid.5-4" label=""/>
+            <field row="0" column="6" id="grid.6-0" label=""/>
+            <field row="1" column="6" id="grid.6-1" label=""/>
+            <field row="2" column="6" id="grid.6-2" label=""/>
+            <field row="3" column="6" id="grid.6-3" label=""/>
+            <field row="4" column="6" id="grid.6-4" label=""/>
+            <field row="0" column="7" id="grid.7-0" label=""/>
+            <field row="1" column="7" id="grid.7-1" label=""/>
+            <field row="2" column="7" id="grid.7-2" label=""/>
+            <field row="3" column="7" id="grid.7-3" label=""/>
+            <field row="4" column="7" id="grid.7-4" label=""/>
+        </grid>
+    </environment>
+    <objects>
+        <piece type="U" id="tile-0" label="" color="cyan">
+            <posture rotation="0" isMirrored="false"/>
+            <start-field>grid2.2-2</start-field>
+            <goal select="false" delete="false">
+                <posture rotation="0" isMirrored="false"/>
+            </goal>
+        </piece>
+        <piece type="U" id="tile-1" label="" color="cyan">
+            <posture rotation="0" isMirrored="false"/>
+            <start-field>grid1.0-0</start-field>
+            <goal select="false" delete="false">
+                <posture rotation="0" isMirrored="false"/>
+            </goal>
+        </piece>
+        <piece type="Z" id="tile-10" label="" color="red">
+            <posture rotation="0" isMirrored="false"/>
+            <start-field>grid1.1-2</start-field>
+            <goal select="false" delete="false">
+                <posture rotation="0" isMirrored="false"/>
+            </goal>
+        </piece>
+        <piece type="T" id="tile-11" label="" color="magenta">
+            <posture rotation="0" isMirrored="false"/>
+            <start-field>grid4.0-0</start-field>
+            <goal select="false" delete="false">
+                <posture rotation="0" isMirrored="false"/>
+            </goal>
+        </piece>
+        <piece type="F" id="tile-12" label="" color="red">
+            <posture rotation="0" isMirrored="false"/>
+            <start-field>grid4.0-2</start-field>
+            <goal select="false" delete="false">
+                <posture rotation="0" isMirrored="false"/>
+            </goal>
+        </piece>
+        <piece type="F" id="tile-13" label="" color="blue">
+            <posture rotation="0" isMirrored="false"/>
+            <start-field>grid4.1-0</start-field>
+            <goal select="false" delete="false">
+                <posture rotation="0" isMirrored="false"/>
+            </goal>
+        </piece>
+        <piece type="I" id="tile-14" label="" color="magenta">
+            <posture rotation="0" isMirrored="false"/>
+            <start-field>grid3.1-1</start-field>
+            <goal select="false" delete="false">
+                <posture rotation="0" isMirrored="false"/>
+            </goal>
+        </piece>
+        <piece type="U" id="tile-2" label="" color="cyan">
+            <posture rotation="0" isMirrored="false"/>
+            <start-field>grid1.1-0</start-field>
+            <goal select="false" delete="false">
+                <posture rotation="0" isMirrored="false"/>
+            </goal>
+        </piece>
+        <piece type="U" id="tile-3" label="" color="cyan">
+            <posture rotation="0" isMirrored="false"/>
+            <start-field>grid2.1-2</start-field>
+            <goal select="false" delete="false">
+                <posture rotation="0" isMirrored="false"/>
+            </goal>
+        </piece>
+        <piece type="U" id="tile-4" label="" color="gray">
+            <posture rotation="0" isMirrored="false"/>
+            <start-field>grid2.1-0</start-field>
+            <goal select="false" delete="false">
+                <posture rotation="0" isMirrored="false"/>
+            </goal>
+        </piece>
+        <piece type="U" id="tile-5" label="" color="green">
+            <posture rotation="0" isMirrored="false"/>
+            <start-field>grid2.2-1</start-field>
+            <goal select="false" delete="false">
+                <posture rotation="0" isMirrored="false"/>
+            </goal>
+        </piece>
+        <piece type="V" id="tile-6" label="" color="green">
+            <posture rotation="0" isMirrored="false"/>
+            <start-field>grid2.0-1</start-field>
+            <goal select="false" delete="false">
+                <posture rotation="0" isMirrored="false"/>
+            </goal>
+        </piece>
+        <piece type="P" id="tile-7" label="" color="yellow">
+            <posture rotation="0" isMirrored="false"/>
+            <start-field>grid2.2-0</start-field>
+            <goal select="false" delete="false">
+                <posture rotation="0" isMirrored="false"/>
+            </goal>
+        </piece>
+        <piece type="U" id="tile-8" label="" color="red">
+            <posture rotation="0" isMirrored="false"/>
+            <start-field>grid4.0-1</start-field>
+            <goal select="false" delete="false">
+                <posture rotation="0" isMirrored="false"/>
+            </goal>
+        </piece>
+        <piece type="P" id="tile-9" label="" color="gray">
+            <posture rotation="0" isMirrored="false"/>
+            <start-field>grid2.0-2</start-field>
+            <goal select="false" delete="false">
+                <posture rotation="0" isMirrored="false"/>
+            </goal>
+        </piece>
+        <cursor state="GRABBING" x="15.0" y="1.0"/>
+    </objects>
+    <history>
+        <state>
+            <piece type="U" id="tile-0" label="" color="cyan">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid2.2-2</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="U" id="tile-1" label="" color="cyan">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid1.0-0</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="Z" id="tile-10" label="" color="red">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid1.1-2</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="T" id="tile-11" label="" color="magenta">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid4.0-0</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="F" id="tile-12" label="" color="red">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid4.0-2</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="F" id="tile-13" label="" color="blue">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid4.1-0</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="I" id="tile-14" label="" color="magenta">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid3.1-1</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="U" id="tile-2" label="" color="cyan">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid1.1-0</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="U" id="tile-3" label="" color="cyan">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid2.1-2</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="U" id="tile-4" label="" color="gray">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid2.1-0</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="U" id="tile-5" label="" color="green">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid2.2-1</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="V" id="tile-6" label="" color="green">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid2.0-1</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="P" id="tile-7" label="" color="yellow">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid2.2-0</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="U" id="tile-8" label="" color="red">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid4.0-1</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="P" id="tile-9" label="" color="gray">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid2.0-2</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <cursor state="NEUTRAL" x="2.0" y="3.5"/>
+        </state>
+        <state>
+            <piece type="U" id="tile-0" label="" color="cyan">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid2.2-2</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="U" id="tile-1" label="" color="cyan">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid1.0-0</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="Z" id="tile-10" label="" color="red">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid1.1-2</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="T" id="tile-11" label="" color="magenta">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid4.0-0</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="F" id="tile-12" label="" color="red">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid4.0-2</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="F" id="tile-13" label="" color="blue">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid4.1-0</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="I" id="tile-14" label="" color="magenta">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid3.1-1</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="U" id="tile-2" label="" color="cyan">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid1.1-0</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="U" id="tile-3" label="" color="cyan">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid2.1-2</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="U" id="tile-4" label="" color="gray">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid2.1-0</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="U" id="tile-5" label="" color="green">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid2.2-1</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="V" id="tile-6" label="" color="green">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid2.0-1</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="P" id="tile-7" label="" color="yellow">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid2.2-0</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="U" id="tile-8" label="" color="red">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid4.0-1</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <piece type="P" id="tile-9" label="" color="gray">
+                <posture rotation="0" isMirrored="false"/>
+                <start-field>grid2.0-2</start-field>
+                <goal select="false" delete="false">
+                    <posture rotation="0" isMirrored="false"/>
+                </goal>
+            </piece>
+            <cursor state="GRABBING" x="15.0" y="1.0"/>
+        </state>
+    </history>
+</setting>

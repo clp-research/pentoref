@@ -1,0 +1,21 @@
+This data is called "pentocv". It is a human-human interaction scenario where an operator (OP; of the computer and DB) instructed the manipulator (MA; of the actual pentomino puzzle pieces) on how to build small figures out of the puzzle tiles (e.g., animals or shapes). The OP could see the tiles and the hands of the MA through the camera feed. 
+
+A typical dialogue went as follows:
+
+MA chooses 2-4 tiles from which OP selects the db GUI to retrieve figures that contained those tiles. 
+OP instructs MA on how to put together the figure. 
+
+This consisted of a single dialogue. This process respeated until half the allotted time was elapsed, then the roles of the participants switched for the second half. 
+
+
+We logged the mouse events in the GUI, and recorded audio and video feeds of both participants. 
+
+
+
+DerivedData:
+
+After the data were collected, the offsets were found by finding an alignment between the xio log and the video/audio. This information is in the DerivedData/*.csv files. The new_offsets.csv file has the general offset, the new_offset_calculations.csv has info for each episode. 
+
+The DerivedData folder has a subfolder for each pair. The asr.TextGrid represents recognized ASR (as extracted from inc_reco files) from Google. The episodes.TextGrid has the start and end times for each dialogue (denoted as episode) in milliseconds (from start time + offset). The .xml file contains a timestamped output of the computer vision software (i.e., the low-level and high-level features of each object). The avi file is generated from the CV software to show which objects were recognized (green = recognized; red = occluded). The eaf file combines episodes and asr. 
+
+

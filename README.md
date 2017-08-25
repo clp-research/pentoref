@@ -1,6 +1,6 @@
 # PentoRef
 
-A collection of Pentomino puzzle playing dialogue corpora annotated for reference to objects and disfluency. This repository is for the derived data only (where reference resolution tasks and disfluency analysis is possible). For audio and video resources please contact julian.hough@uni-bielefeld.de.
+A collection of Pentomino puzzle playing dialogue corpora annotated for reference to objects and disfluency. This repository is for the derived data only (where reference information and disfluency analysis is possible). For audio and video resources please contact julian.hough@uni-bielefeld.de.
 
 Please cite the following paper if you use this data:
 

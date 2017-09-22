@@ -25,3 +25,13 @@ def create_audio_clip(audio_source, start, end, target_filepath):
     aclip = audio1.subclip(start, end)
     aclip.write_audiofile(target_filepath)
     return
+
+
+def create_image_from_frame(video_source, target_filepath, t):
+    """Creates an image of the video at time t at target_filepath"""
+    if video_source is None:
+        print "No video source"
+        return
+    video1 = VideoFileClip(video_source)
+    video1.save_frame(target_filepath, t=t)
+    return

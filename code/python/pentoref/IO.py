@@ -8,20 +8,6 @@ from os.path import abspath, join
 from pandas import DataFrame
 
 
-def convert_subcorpus_raw_data_to_sqlite_database(corpus_dir):
-    """Converts the subcorpus to a large sqlite database with all
-    the information for all interactions in the corpus.
-
-    :param corpus_dir: str, the directory path of the subcorpus,
-    e.g. PENTOREF_TAKE
-    """
-    corpus = corpus_dir.split("/")[-1].split("_")[0]
-    dfwords, dfutts, dfrefs, dfscenes, dfactions = \
-        convert_subcorpus_raw_data_to_dataframes(corpus_dir)
-    write_corpus_to_database(corpus, dfwords, dfutts, dfrefs, dfscenes,
-                             dfactions)
-
-
 def convert_subcorpus_raw_data_to_dataframes(corpus_dir):
     """Converts the subcorpus to 4 Pandas dataframes containing info for
     words, utterances, references and scenes
@@ -42,3 +28,17 @@ def convert_subcorpus_raw_data_to_dataframes(corpus_dir):
     dfscenes = DataFrame(scenes)
     dfactions = DataFrame(actions)
     return dfwords, dfutts, dfrefs, dfscenes, dfactions
+
+
+def convert_subcorpus_raw_data_to_sqlite_database(corpus_dir):
+    """Converts the subcorpus to a large sqlite database with all
+    the information for all interactions in the corpus.
+
+    :param corpus_dir: str, the directory path of the subcorpus,
+    e.g. PENTOREF_TAKE
+    """
+    corpus = corpus_dir.split("/")[-1].split("_")[0]
+    dfwords, dfutts, dfrefs, dfscenes, dfactions = \
+        convert_subcorpus_raw_data_to_dataframes(corpus_dir)
+    write_corpus_to_database(corpus, dfwords, dfutts, dfrefs, dfscenes,
+                             dfactions)

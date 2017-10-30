@@ -1,0 +1,176 @@
+<timestamp time="465194.029851">
+   <boundingBox height="461" width="578" x="58" y="35"/>
+   <occluded>
+      <object id="1"/>
+      <object id="8"/>
+      <object id="11"/>
+   </occluded>
+   <object id="0">
+      <position global="center center" x="361" y="198"/>
+      <shape BestResponse="V">
+         <distribution F="3.45670045125e-06" I="7.94061240615e-22" L="2.26709089728e-06" N="6.43189604898e-22" P="0.0" T="0.0" U="7.28159395802e-06" V="0.612597430864" W="7.68472547278e-31" X="0.0" Y="0.387389563751" Z="0.0"/>
+         <orientation value="-12.4419115557"/>
+         <skewness horizontal="left-skewed" vertical="symmetric"/>
+         <nbEdges value="6"/>
+      </shape>
+      <colour BestResponse="Blue">
+         <distribution Blue="0.998684739259" Brown="0.00131421907152" Gray="1.18592194868e-07" Green="2.99813519232e-09" Orange="1.11362993851e-09" Pink="6.46609266944e-07" Purple="5.96264026611e-15" Red="2.72356554777e-07" Yellow="1.39421822878e-18"/>
+         <hsvValue H="93.3563295378" S="249.330207636" V="109.111855325"/>
+         <rgbValue B="107.793034159" G="97.0428667113" R="5.21567314133"/>
+      </colour>
+   </object>
+   <object id="1">
+      <position global="right bottom" x="434" y="335"/>
+      <shape BestResponse="L">
+         <distribution F="1.13890168746e-20" I="0.181517059364" L="0.571447190573" N="0.000425750062851" P="6.74952054523e-21" T="1.84464977162e-21" U="2.01758808095e-26" V="0.0562" W="0.0" X="0.0" Y="0.19041" Z="2.64854071808e-22"/>
+         <orientation value="32.7091638023"/>
+         <skewness horizontal="right-skewed" vertical="bottom-skewed"/>
+         <nbEdges value="8"/>
+      </shape>
+      <colour BestResponse="Orange">
+         <distribution Blue="1.66327514939e-43" Brown="0.209699860493" Gray="5.19829553018e-09" Green="4.82513072487e-18" Orange="0.620288174285" Pink="0.000633993063464" Purple="2.36710740432e-40" Red="0.0317610170342" Yellow="0.137616949926"/>
+         <hsvValue H="15.5004344049" S="251.010425717" V="134.208514335"/>
+         <rgbValue B="3.8583840139" G="70.4309296264" R="131.70981755"/>
+      </colour>
+   </object>
+   <object id="2">
+      <position global="right center" x="407" y="161"/>
+      <shape BestResponse="T">
+         <distribution F="0.000157346876713" I="0.0" L="0.0" N="0.0" P="0.0" T="0.72198363557" U="0.0" V="0.277829048486" W="1.19876269151e-05" X="0.0" Y="1.79814403727e-05" Z="0.0"/>
+         <orientation value="26.4482330666"/>
+         <skewness horizontal="left-skewed" vertical="bottom-skewed"/>
+         <nbEdges value="8"/>
+      </shape>
+      <colour BestResponse="Green">
+         <distribution Blue="7.60962092104e-14" Brown="0.00163435927181" Gray="0.000318005312907" Green="0.995251248311" Orange="0.000447832241928" Pink="4.46673138157e-05" Purple="4.61230958123e-27" Red="2.08114355032e-06" Yellow="0.00230180640482"/>
+         <hsvValue H="50.5459110473" S="166.055954089" V="110.315638451"/>
+         <rgbValue B="39.7403156385" G="109.913916786" R="61.8113342898"/>
+      </colour>
+   </object>
+   <object id="3">
+      <position global="right top" x="407" y="72"/>
+      <shape BestResponse="Z">
+         <distribution F="0.0" I="0.0" L="0.000942025739449" N="2.03696785466e-19" P="0.0" T="0.0" U="0.000215858266688" V="0.0" W="0.355695617779" X="0.0" Y="0.10029614901" Z="0.542850349205"/>
+         <orientation value="-38.613540121"/>
+         <skewness horizontal="symmetric" vertical="top-skewed"/>
+         <nbEdges value="9"/>
+      </shape>
+      <colour BestResponse="Blue">
+         <distribution Blue="0.998588914799" Brown="0.00140107852668" Gray="3.82139341853e-07" Green="8.73541426769e-06" Orange="4.73196454765e-09" Pink="7.27053868692e-07" Purple="7.72724287213e-17" Red="1.57335196852e-07" Yellow="1.86717351631e-16"/>
+         <hsvValue H="89.3764465623" S="239.190605854" V="100.883594282"/>
+         <rgbValue B="97.5908781484" G="100.025867937" R="8.26548672566"/>
+      </colour>
+   </object>
+   <object id="4">
+      <position global="center center" x="205" y="163"/>
+      <shape BestResponse="N">
+         <distribution F="6.34096905691e-05" I="3.01366231127e-09" L="6.68189699566e-06" N="0.503993908891" P="0.00014789984856" T="0.0" U="0.00886293811965" V="0.0" W="0.420642488999" X="0.0" Y="0.0440130583683" Z="0.0222696111724"/>
+         <orientation value="-38.5326891177"/>
+         <skewness horizontal="symmetric" vertical="top-skewed"/>
+         <nbEdges value="10"/>
+      </shape>
+      <colour BestResponse="Green">
+         <distribution Blue="4.34797826875e-26" Brown="0.00760274845116" Gray="1.50486026826e-05" Green="0.686636556742" Orange="0.00382862036352" Pink="1.14472419606e-05" Purple="3.92907580806e-38" Red="5.19628736768e-07" Yellow="0.30190505897"/>
+         <hsvValue H="41.5978407557" S="196.643049933" V="129.564777328"/>
+         <rgbValue B="31.657219973" G="129.691632928" R="90.9952766532"/>
+      </colour>
+   </object>
+   <object id="5">
+      <position global="center bottom" x="244" y="372"/>
+      <shape BestResponse="U">
+         <distribution F="0.000814368359295" I="0.0" L="0.00119147728061" N="1.00671479726e-33" P="0.0" T="0.0" U="0.602606382446" V="0.000127270474137" W="0.0" X="0.0" Y="0.00334492167165" Z="0.391915579768"/>
+         <orientation value="0.531087072145"/>
+         <skewness horizontal="right-skewed" vertical="symmetric"/>
+         <nbEdges value="8"/>
+      </shape>
+      <colour BestResponse="Yellow">
+         <distribution Blue="8.73109648111e-46" Brown="0.0371762249242" Gray="4.44685523586e-08" Green="0.00355443882642" Orange="0.146824565287" Pink="1.64197050853e-05" Purple="5.91444140251e-47" Red="1.43901914171e-05" Yellow="0.812413916597"/>
+         <hsvValue H="28.4425872093" S="253.685319767" V="128.448401163"/>
+         <rgbValue B="3.39098837209" G="121.084302326" R="127.359738372"/>
+      </colour>
+   </object>
+   <object id="6">
+      <position global="right top" x="468" y="152"/>
+      <shape BestResponse="I">
+         <distribution F="0.0" I="0.908724688136" L="0.0275761951115" N="1.04417258291e-11" P="0.0" T="0.0" U="0.0" V="0.0" W="0.063699116742" X="0.0" Y="0.0" Z="0.0"/>
+         <orientation value="2.54474449353"/>
+         <skewness horizontal="symmetric" vertical="bottom-skewed"/>
+         <nbEdges value="4"/>
+      </shape>
+      <colour BestResponse="Blue">
+         <distribution Blue="0.999938366328" Brown="7.13106698556e-07" Gray="1.51835557678e-05" Green="2.35039224559e-10" Orange="2.94359036866e-09" Pink="3.97117421388e-05" Purple="9.90033682609e-10" Red="6.02109867287e-06" Yellow="2.93561497273e-17"/>
+         <hsvValue H="96.9046225863" S="190.736102984" V="100.507314219"/>
+         <rgbValue B="99.4997074312" G="82.9812755998" R="26.6693973084"/>
+      </colour>
+   </object>
+   <object id="7">
+      <position global="center bottom" x="277" y="372"/>
+      <shape BestResponse="X">
+         <distribution F="0.00205779463242" I="0.0" L="0.0" N="0.0" P="0.00232317361787" T="1.42399514468e-31" U="6.40797815108e-31" V="0.0" W="0.0" X="0.99561903175" Y="0.0" Z="0.0"/>
+         <orientation value="10.5160240628"/>
+         <skewness horizontal="symmetric" vertical="symmetric"/>
+         <nbEdges value="10"/>
+      </shape>
+      <colour BestResponse="Red">
+         <distribution Blue="1.51677633306e-51" Brown="0.224296499709" Gray="3.10735814004e-10" Green="3.14017322006e-31" Orange="0.250614468582" Pink="0.00190333791107" Purple="2.53361967723e-37" Red="0.523184775035" Yellow="9.18452401547e-07"/>
+         <hsvValue H="7.78940217391" S="250.476902174" V="140.432065217"/>
+         <rgbValue B="4.125" G="40.5088315217" R="138.71875"/>
+      </colour>
+   </object>
+   <object id="8">
+      <position global="center center" x="288" y="154"/>
+      <shape BestResponse="L">
+         <distribution F="4.98407768269e-21" I="2.18155487835e-22" L="0.938062213554" N="0.0619376761126" P="3.3256545379e-21" T="0.0" U="0.0" V="0.0" W="9.58451584522e-08" X="0.0" Y="1.44878809675e-08" Z="3.18511891813e-21"/>
+         <orientation value="-10.5937125482"/>
+         <skewness horizontal="symmetric" vertical="bottom-skewed"/>
+         <nbEdges value="8"/>
+      </shape>
+      <colour BestResponse="Purple">
+         <distribution Blue="5.33529398304e-14" Brown="1.30119253881e-17" Gray="0.269490089597" Green="1.02438576596e-08" Orange="4.83504833166e-10" Pink="0.078410052533" Purple="0.651579767155" Red="0.000520079987217" Yellow="2.60383090793e-16"/>
+         <hsvValue H="131.361623616" S="80.5025830258" V="74.926199262"/>
+         <rgbValue B="73.8907749077" G="52.7121771218" R="61.5195571956"/>
+      </colour>
+   </object>
+   <object id="9">
+      <position global="left center" x="102" y="187"/>
+      <shape BestResponse="F">
+         <distribution F="0.65433520274" I="0.0" L="0.0" N="6.83485349628e-13" P="0.284988087431" T="0.00925456305506" U="0.0514221466516" V="1.19548660287e-10" W="9.65234262278e-13" X="0.0" Y="4.29669263111e-14" Z="4.08900979566e-13"/>
+         <orientation value="36.8602246913"/>
+         <skewness horizontal="right-skewed" vertical="top-skewed"/>
+         <nbEdges value="9"/>
+      </shape>
+      <colour BestResponse="Green">
+         <distribution Blue="5.56796479007e-11" Brown="2.383707795e-06" Gray="0.429606189996" Green="0.554015409424" Orange="0.000130109173614" Pink="0.0160317222998" Purple="1.15717067126e-11" Red="0.00015321477998" Yellow="6.0970551347e-05"/>
+         <hsvValue H="54.8065732759" S="58.4014008621" V="92.9692887931"/>
+         <rgbValue B="73.5862068966" G="94.6454741379" R="77.7214439655"/>
+      </colour>
+   </object>
+   <object id="10">
+      <position global="center bottom" x="381" y="381"/>
+      <shape BestResponse="P">
+         <distribution F="0.00697372122608" I="0.0" L="0.0" N="0.000107820618002" P="0.990600416692" T="0.0" U="3.59046852072e-08" V="3.00370037393e-13" W="7.18804126932e-05" X="0.00224612514641" Y="1.35375495799e-13" Z="1.93952142618e-13"/>
+         <orientation value="44.7042729944"/>
+         <skewness horizontal="left-skewed" vertical="symmetric"/>
+         <nbEdges value="6"/>
+      </shape>
+      <colour BestResponse="Pink">
+         <distribution Blue="4.29939023144e-43" Brown="1.22430901487e-13" Gray="0.0399228588559" Green="1.87360314574e-16" Orange="4.82490386889e-10" Pink="0.951555702192" Purple="8.3531572224e-06" Red="0.00851308531263" Yellow="2.46008713851e-17"/>
+         <hsvValue H="160.350649351" S="128.037780401" V="126.80283353"/>
+         <rgbValue B="71.1977567887" G="64.7012987013" R="126.13459268"/>
+      </colour>
+   </object>
+   <object id="11">
+      <position global="right center" x="443" y="275"/>
+      <shape BestResponse="Y">
+         <distribution F="0.043046721" I="0.0" L="0.00136349947166" N="0.0613286479135" P="0.0" T="1.17416327495e-18" U="0.0511076556556" V="0.128036961611" W="0.018" X="0.1" Y="0.587550576348" Z="0.009565938"/>
+         <orientation value="10.614510116"/>
+         <skewness horizontal="symmetric" vertical="top-skewed"/>
+         <nbEdges value="7"/>
+      </shape>
+      <colour BestResponse="Brown">
+         <distribution Blue="1.15202259995e-33" Brown="0.881973174495" Gray="1.76815841729e-07" Green="7.03489404913e-17" Orange="0.0657501582315" Pink="0.000548187114591" Purple="8.15221228116e-32" Red="0.051703743276" Yellow="2.4560067493e-05"/>
+         <hsvValue H="13.2730661696" S="222.153774464" V="83.2022367195"/>
+         <rgbValue B="11.9925442684" G="43.5181733458" R="83.3541472507"/>
+      </colour>
+   </object>
+</timestamp>

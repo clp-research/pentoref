@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-08-10T21:36:02+01:00" FORMAT="2.7" VERSION="2.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.7.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-05-22T01:07:03+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Julian/bielefeld-server/DSG/PENTO_CV_PENTOREF/audio/r5/r5.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../../bielefeld-server/DSG/PENTO_CV_PENTOREF/audio/r5/r5.wav"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Julian/bielefeld-server/DSG/PENTO_CV_PENTOREF/video/video/r5/r5.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../../../bielefeld-server/DSG/PENTO_CV_PENTOREF/video/video/r5/r5.mp4"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Julian/bielefeld-server/DSG/PENTO_CV_PENTOREF/audio/r5/r5.wav" MIME_TYPE="audio/x-wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Julian/bielefeld-server/DSG/PENTO_CV_PENTOREF/video/video/r5/r5.mp4" MIME_TYPE="video/mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:f4badafc-5eec-41c5-8417-de31c61c995a</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">2534</PROPERTY>
     </HEADER>
@@ -7620,7 +7620,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a516" TIME_SLOT_REF1="ts3182" TIME_SLOT_REF2="ts3183">
-                <ANNOTATION_VALUE>move_to_piece</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>move_to_piece:V</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

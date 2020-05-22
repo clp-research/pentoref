@@ -2,11 +2,11 @@
 formats and convert them to either Pandas dataframes or databases.
 There are also functions to save these objects to files.
 """
-from IOutils import create_data_from_transcriptions_and_xml_data
-from IOutils import write_corpus_to_database
+from pentoref.IOutils import create_data_from_transcriptions_and_xml_data
+from pentoref.IOutils import create_data_from_transcriptions_and_xml_data_pentocv
+from pentoref.IOutils import write_corpus_to_database
 from os.path import abspath, join
 from pandas import DataFrame
-
 
 def convert_subcorpus_raw_data_to_dataframes(corpus_dir):
     """Converts the subcorpus to 4 Pandas dataframes containing info for
@@ -19,9 +19,13 @@ def convert_subcorpus_raw_data_to_dataframes(corpus_dir):
     tgpath = join(path, 'derived_data/transcription_annotation')
     xmlpath = join(path, 'derived_data/multimodal_data/scene_information')
     corpus = corpus_dir.split("/")[-1].split("_")[0]
-
-    words, utterances, references, scenes, actions =\
-        create_data_from_transcriptions_and_xml_data(corpus, tgpath, xmlpath)
+    print("Extracting", corpus)
+    if corpus == "PENTOCV":
+        words, utterances, references, scenes, actions =\
+            create_data_from_transcriptions_and_xml_data_pentocv(corpus, tgpath, xmlpath)
+    else:
+        words, utterances, references, scenes, actions =\
+            create_data_from_transcriptions_and_xml_data(corpus, tgpath, xmlpath)
     dfwords = DataFrame(words)
     dfutts = DataFrame(utterances)
     dfrefs = DataFrame(references)

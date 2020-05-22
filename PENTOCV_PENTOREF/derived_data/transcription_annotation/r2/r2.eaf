@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-08-09T22:57:40+01:00" FORMAT="2.7" VERSION="2.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.7.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-05-22T01:10:28+00:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Julian/bielefeld-server/DSG/PENTO_CV_PENTOREF/audio/r2/r2.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="../../../../bielefeld-server/DSG/PENTO_CV_PENTOREF/audio/r2/r2.wav"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Julian/bielefeld-server/DSG/PENTO_CV_PENTOREF/video/video/r2/r2.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../../../bielefeld-server/DSG/PENTO_CV_PENTOREF/video/video/r2/r2.mp4"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Julian/bielefeld-server/DSG/PENTO_CV_PENTOREF/audio/r2/r2.wav" MIME_TYPE="audio/x-wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/Julian/bielefeld-server/DSG/PENTO_CV_PENTOREF/video/video/r2/r2.mp4" MIME_TYPE="video/mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:1c599f5c-fddd-4180-87c7-47803d632f29</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">3556</PROPERTY>
     </HEADER>
@@ -10562,7 +10562,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a736" TIME_SLOT_REF1="ts1807" TIME_SLOT_REF2="ts1808">
-                <ANNOTATION_VALUE>retract</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>retract:F</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -11917,7 +11917,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1023" TIME_SLOT_REF1="ts4208" TIME_SLOT_REF2="ts4209">
-                <ANNOTATION_VALUE>grab_piece:L:L</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>grab_piece:L</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -12862,7 +12862,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1211" TIME_SLOT_REF1="ts5737" TIME_SLOT_REF2="ts5738">
-                <ANNOTATION_VALUE>retract::N</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>retract:N</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

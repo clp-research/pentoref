@@ -73,17 +73,20 @@
         <String>AAM-LR Phone level audio segmentation</String>
     </pref>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">74,434</Object>
+        <Object class="java.awt.Point">166,223</Object>
     </pref>
     <pref key="SelectionBeginTime">
         <Long>809595</Long>
     </pref>
+    <pref key="DetachedEditor.Bounds">
+        <Object class="java.awt.Rectangle">268,445,1291,300</Object>
+    </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
-        <pref key="base_url">
-            <String>http://lux17.mpi.nl/aamlr/</String>
-        </pref>
         <pref key="source_audio">
             <String>///C:/Users/Julian/bielefeld-server/DSG/PENTO_CV_PENTOREF/audio/r8/r8.wav</String>
+        </pref>
+        <pref key="base_url">
+            <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
     </prefGroup>
     <prefGroup key="BAS - WebMAUS Basic">

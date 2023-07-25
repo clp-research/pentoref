@@ -11,7 +11,7 @@
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
     </pref>
     <pref key="TextViewer.TierName">
-        <String>rh</String>
+        <String>B-utts</String>
     </pref>
     <pref key="ActiveAudioRecognizerName">
         <String>BAS - WebMAUS Basic</String>
@@ -23,7 +23,7 @@
         <Int>197</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>1547262</Long>
+        <Long>673518</Long>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
         <Float>136.0</Float>
@@ -79,23 +79,26 @@
         <String>AAM-LR Phone level audio segmentation</String>
     </pref>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">462,130</Object>
+        <Object class="java.awt.Point">317,138</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
         <Float>136.0</Float>
     </pref>
+    <pref key="LayoutManager.AudioSplitPaneDividerLocation">
+        <Int>23</Int>
+    </pref>
     <pref key="SelectionBeginTime">
-        <Long>1546881</Long>
+        <Long>672055</Long>
     </pref>
     <pref key="DetachedEditor.Bounds">
-        <Object class="java.awt.Rectangle">570,300,300,300</Object>
+        <Object class="java.awt.Rectangle">570,300,877,300</Object>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>///C:/Users/Julian/bielefeld-server/DSG/PENTO_CV_PENTOREF/audio/r2/r2.wav</String>
+            <String>/Users/julianhough/Library/CloudStorage/Dropbox/PENTOREF/Pento_CV_PENTOREF/raw_data/audio/r2/r2.wav</String>
         </pref>
     </prefGroup>
     <prefGroup key="BAS - WebMAUS Basic">
@@ -118,10 +121,10 @@
     </prefGroup>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="TimeScaleBeginTime">
-        <Long>1544292</Long>
+        <Long>669992</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>1546881</Long>
+        <Long>672055</Long>
     </pref>
     <prefList key="MultiTierViewer.TierOrder">
         <String>lh</String>
@@ -146,17 +149,17 @@
         <pref key="comments">
             <Object class="java.awt.Color">0,160,90</Object>
         </pref>
+        <pref key="A-utts-action-layer">
+            <Object class="java.awt.Color">90,160,90</Object>
+        </pref>
+        <pref key="rh">
+            <Object class="java.awt.Color">160,160,0</Object>
+        </pref>
         <pref key="A-utts">
             <Object class="java.awt.Color">90,0,90</Object>
         </pref>
         <pref key="Part">
             <Object class="java.awt.Color">160,0,0</Object>
-        </pref>
-        <pref key="rh">
-            <Object class="java.awt.Color">160,160,0</Object>
-        </pref>
-        <pref key="A-utts-action-layer">
-            <Object class="java.awt.Color">90,160,90</Object>
         </pref>
         <pref key="B-utts-action-layer">
             <Object class="java.awt.Color">90,160,160</Object>
@@ -172,7 +175,7 @@
         </pref>
     </prefGroup>
     <pref key="LayoutManager.SplitPaneDividerLocation">
-        <Int>2</Int>
+        <Int>70</Int>
     </pref>
     <prefList key="CommentViewer.Columns.Hidden">
         <String>Sender</String>

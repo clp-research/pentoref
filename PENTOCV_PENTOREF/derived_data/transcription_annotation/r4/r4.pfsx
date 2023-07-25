@@ -20,10 +20,10 @@
         <String>A-utts-action-layer</String>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>1239077</Long>
+        <Long>826620</Long>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>212.0</Float>
+        <Float>212.00002</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -76,13 +76,16 @@
         <String>AAM-LR Phone level audio segmentation</String>
     </pref>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">74,341</Object>
+        <Object class="java.awt.Point">149,281</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
         <Float>212.00002</Float>
     </pref>
+    <pref key="LayoutManager.AudioSplitPaneDividerLocation">
+        <Int>23</Int>
+    </pref>
     <pref key="SelectionBeginTime">
-        <Long>1227998</Long>
+        <Long>815987</Long>
     </pref>
     <pref key="DetachedEditor.Bounds">
         <Object class="java.awt.Rectangle">570,300,560,300</Object>
@@ -92,7 +95,7 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>///C:/Users/Julian/bielefeld-server/DSG/PENTO_CV_PENTOREF/audio/r4/r4.wav</String>
+            <String>/Users/julianhough/Library/CloudStorage/Dropbox/PENTOREF/Pento_CV_PENTOREF/raw_data/audio/r4/r4.wav</String>
         </pref>
     </prefGroup>
     <prefGroup key="BAS - WebMAUS Basic">
@@ -115,10 +118,10 @@
     </prefGroup>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="TimeScaleBeginTime">
-        <Long>1227923</Long>
+        <Long>815912</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>1227998</Long>
+        <Long>815987</Long>
     </pref>
     <prefList key="MultiTierViewer.TierOrder">
         <String>lh</String>
@@ -145,11 +148,11 @@
         <pref key="rh">
             <Object class="java.awt.Color">160,90,160</Object>
         </pref>
-        <pref key="Part">
-            <Object class="java.awt.Color">90,0,160</Object>
-        </pref>
         <pref key="A-utts-action-layer">
             <Object class="java.awt.Color">90,90,160</Object>
+        </pref>
+        <pref key="Part">
+            <Object class="java.awt.Color">90,0,160</Object>
         </pref>
         <pref key="B-utts-action-layer">
             <Object class="java.awt.Color">160,90,90</Object>
@@ -165,7 +168,7 @@
         </pref>
     </prefGroup>
     <pref key="LayoutManager.SplitPaneDividerLocation">
-        <Int>2</Int>
+        <Int>70</Int>
     </pref>
     <prefList key="CommentViewer.Columns.Hidden">
         <String>Sender</String>
